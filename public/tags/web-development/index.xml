@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web-Development on Keith Thomson</title>
+    <link>http://localhost:1313/tags/web-development/</link>
+    <description>Recent content in Web-Development on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 14:13:41 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🏺 JavaScript Promises</title>
+      <link>http://localhost:1313/posts/javascript/promises/</link>
+      <pubDate>Sun, 16 Nov 2025 14:13:41 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/javascript/promises/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript Async/Await: A Comprehensive Guide</title>
+      <link>http://localhost:1313/posts/javascript/async/</link>
+      <pubDate>Sun, 16 Nov 2025 13:57:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/javascript/async/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTML Elements Table</title>
+      <link>http://localhost:1313/posts/references/html_semantic_reference/</link>
+      <pubDate>Sun, 16 Nov 2025 13:54:10 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/references/html_semantic_reference/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding HTTP Concepts</title>
+      <link>http://localhost:1313/posts/references/http-overview/</link>
+      <pubDate>Sun, 16 Nov 2025 13:54:10 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/references/http-overview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript Arrays</title>
+      <link>http://localhost:1313/posts/javascript/arrays/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/javascript/arrays/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript Functions</title>
+      <link>http://localhost:1313/posts/javascript/functions/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/javascript/functions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript Objects</title>
+      <link>http://localhost:1313/posts/javascript/objects/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/javascript/objects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript Variables</title>
+      <link>http://localhost:1313/posts/javascript/variables/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/javascript/variables/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TypeScript Generics</title>
+      <link>http://localhost:1313/posts/typescript/generics/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/typescript/generics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TypeScript Interfaces</title>
+      <link>http://localhost:1313/posts/typescript/interfaces/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/typescript/interfaces/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TypeScript Types</title>
+      <link>http://localhost:1313/posts/typescript/types/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/typescript/types/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

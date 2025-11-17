@@ -1,0 +1,49 @@
+/*
+ This targets *only* the icons inside your new container
+*/
+.tech-stack-icons .icon svg {
+  /* Adjust the size here as you like */
+  width: 2.5rem;
+  height: 2.5rem;
+  
+  /* Optional: Add some spacing */
+  margin: 0.25rem;
+}
+
+.tag, .category {
+    display: inline-block;
+    padding: 0.15rem 0.2rem;
+    border-radius: 9px;
+    font-size: 0.5rem;
+    font-weight: 300;
+    color: #fff;
+    background-color: #10b981; /* default green */
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+/* Optional: Add subtle hover effect for cards */
+.projects-grid .github-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.projects-grid .github-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.3);
+}
+
+/* Example: different colors per category */
+.tag.Programming { background-color: #3b82f6; }
+.tag.Cloud { background-color: #f59e0b; }
+.tag.DevOps { background-color: #8b5cf6; }
+
+

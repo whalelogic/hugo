@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Error-Handling on Keith Thomson</title>
+    <link>http://localhost:1313/tags/error-handling/</link>
+    <description>Recent content in Error-Handling on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 14:12:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/error-handling/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🩺 Error Handling in Go</title>
+      <link>http://localhost:1313/posts/go/errors/</link>
+      <pubDate>Sun, 16 Nov 2025 14:12:22 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/go/errors/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python Exceptions</title>
+      <link>http://localhost:1313/posts/python/exceptions/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/python/exceptions/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

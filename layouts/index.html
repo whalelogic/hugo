@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+  <div class="flex flex-col items-center">
+    {{/* Profile Image */}}
+    <div class="mb-4">
+      <img src="{{ .Site.Params.homepage.homepageImage | relURL }}" alt="Profile Picture" class="mx-auto h-48 w-48 rounded-full object-cover">
+    </div>
+
+    {{/* Bio */}}
+    <div class="text-center mt-8">
+      <h1 class="text-4xl font-bold pb-4">{{ .Site.Title }}</h1>
+      <div class="prose dark:prose-invert mt-4">
+        {{ .Content }}
+      </div>
+    </div>
+
+    {{/* Recent Posts */}}
+    <div class="mt-12 w-full max-w-2xl dark:border-gray-700 rounded-lg p-6">
+      <h2 class="text-2xl font-bold mb-4 text-primary-400">Recent Posts</h2>
+      <ul>
+        {{ range first 8 (where .Site.RegularPages "Type" "posts") }}
+          <li class="mb-4 py-2">
+            <a href="{{ .RelPermalink }}" class="text-xl font-semibold text-primary-200 hover:text-blue-900 hover:underline">{{ .Title }}</a>
+            <!-- <p class="text-gray-600 dark:text-gray-400">{{ .Params.tags }}</p> -->
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+{{ end }}

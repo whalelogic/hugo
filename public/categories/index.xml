@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Keith Thomson</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 14:14:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Sun, 16 Nov 2025 14:14:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/categories/programming/</link>
+      <pubDate>Sun, 16 Nov 2025 14:13:41 -0500</pubDate>
+      
+      <guid>http://localhost:1313/categories/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/categories/web-development/</link>
+      <pubDate>Sun, 16 Nov 2025 14:12:34 -0500</pubDate>
+      
+      <guid>http://localhost:1313/categories/web-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/categories/devops/</link>
+      <pubDate>Sun, 16 Nov 2025 14:10:13 -0500</pubDate>
+      
+      <guid>http://localhost:1313/categories/devops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internet of Things</title>
+      <link>http://localhost:1313/categories/internet-of-things/</link>
+      <pubDate>Sun, 16 Nov 2025 13:54:24 -0500</pubDate>
+      
+      <guid>http://localhost:1313/categories/internet-of-things/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/categories/data-science/</link>
+      <pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate>
+      
+      <guid>http://localhost:1313/categories/data-science/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
