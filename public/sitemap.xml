@@ -3,277 +3,277 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/python/regular_expressions_for_python/</loc>
+    <loc>//localhost:1313/posts/python/regular_expressions_for_python/</loc>
     <lastmod>2025-11-16T14:14:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-11-16T14:14:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-11-16T14:14:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/javascript/promises/</loc>
+    <loc>//localhost:1313/posts/javascript/promises/</loc>
     <lastmod>2025-11-16T14:13:41-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/structs/</loc>
+    <loc>//localhost:1313/posts/go/structs/</loc>
     <lastmod>2025-11-16T14:13:10-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/go_network_programming_guide/</loc>
+    <loc>//localhost:1313/posts/go/go_network_programming_guide/</loc>
     <lastmod>2025-11-16T14:12:34-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/errors/</loc>
+    <loc>//localhost:1313/posts/go/errors/</loc>
     <lastmod>2025-11-16T14:12:22-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/functions/</loc>
+    <loc>//localhost:1313/posts/go/functions/</loc>
     <lastmod>2025-11-16T14:11:50-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/flask_rest_api_setup/</loc>
+    <loc>//localhost:1313/posts/python/flask_rest_api_setup/</loc>
     <lastmod>2025-11-16T14:10:27-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/javascript/docker-nginx-ubuntu/</loc>
+    <loc>//localhost:1313/posts/javascript/docker-nginx-ubuntu/</loc>
     <lastmod>2025-11-16T14:10:13-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/general/ethics_for_the_future_of_humanity/</loc>
+    <loc>//localhost:1313/posts/general/ethics_for_the_future_of_humanity/</loc>
     <lastmod>2025-11-16T14:09:29-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/context/</loc>
+    <loc>//localhost:1313/posts/python/context/</loc>
     <lastmod>2025-11-16T14:08:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/rust/structs/</loc>
+    <loc>//localhost:1313/posts/rust/structs/</loc>
     <lastmod>2025-11-16T14:01:15-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/rust/ownership/</loc>
+    <loc>//localhost:1313/posts/rust/ownership/</loc>
     <lastmod>2025-11-16T14:01:10-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/rust/mastering_async_programming_in_rust/</loc>
+    <loc>//localhost:1313/posts/rust/mastering_async_programming_in_rust/</loc>
     <lastmod>2025-11-16T14:00:30-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/rust/getting_started_with_rust/</loc>
+    <loc>//localhost:1313/posts/rust/getting_started_with_rust/</loc>
     <lastmod>2025-11-16T14:00:19-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/rust/building_web_applications_with_axum/</loc>
+    <loc>//localhost:1313/posts/rust/building_web_applications_with_axum/</loc>
     <lastmod>2025-11-16T14:00:13-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/rust/borrowing/</loc>
+    <loc>//localhost:1313/posts/rust/borrowing/</loc>
     <lastmod>2025-11-16T14:00:08-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/javascript/async/</loc>
+    <loc>//localhost:1313/posts/javascript/async/</loc>
     <lastmod>2025-11-16T13:57:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/concurrency/</loc>
+    <loc>//localhost:1313/posts/go/concurrency/</loc>
     <lastmod>2025-11-16T13:56:31-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/general/iot_sensors_/</loc>
+    <loc>//localhost:1313/posts/general/iot_sensors_/</loc>
     <lastmod>2025-11-16T13:54:24-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/references/html_semantic_reference/</loc>
+    <loc>//localhost:1313/posts/references/html_semantic_reference/</loc>
     <lastmod>2025-11-16T13:54:10-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/references/http-overview/</loc>
+    <loc>//localhost:1313/posts/references/http-overview/</loc>
     <lastmod>2025-11-16T13:54:10-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</loc>
+    <loc>//localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</loc>
     <lastmod>2025-11-16T13:52:42-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/using_google_bigquery_with_python/</loc>
+    <loc>//localhost:1313/posts/python/using_google_bigquery_with_python/</loc>
     <lastmod>2025-11-16T13:52:42-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</loc>
+    <loc>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</loc>
     <lastmod>2025-11-16T13:25:14-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2025-11-16T13:25:14-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2025-11-16T13:25:09-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/interfaces/</loc>
+    <loc>//localhost:1313/posts/go/interfaces/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/javascript/arrays/</loc>
+    <loc>//localhost:1313/posts/javascript/arrays/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/javascript/functions/</loc>
+    <loc>//localhost:1313/posts/javascript/functions/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/javascript/objects/</loc>
+    <loc>//localhost:1313/posts/javascript/objects/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/javascript/variables/</loc>
+    <loc>//localhost:1313/posts/javascript/variables/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/classes/</loc>
+    <loc>//localhost:1313/posts/python/classes/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/data_types/</loc>
+    <loc>//localhost:1313/posts/python/data_types/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/exceptions/</loc>
+    <loc>//localhost:1313/posts/python/exceptions/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/functions/</loc>
+    <loc>//localhost:1313/posts/python/functions/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/python/modules/</loc>
+    <loc>//localhost:1313/posts/python/modules/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/ruby/blocks/</loc>
+    <loc>//localhost:1313/posts/ruby/blocks/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/ruby/classes/</loc>
+    <loc>//localhost:1313/posts/ruby/classes/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/ruby/symbols/</loc>
+    <loc>//localhost:1313/posts/ruby/symbols/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/typescript/generics/</loc>
+    <loc>//localhost:1313/posts/typescript/generics/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/typescript/interfaces/</loc>
+    <loc>//localhost:1313/posts/typescript/interfaces/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/typescript/types/</loc>
+    <loc>//localhost:1313/posts/typescript/types/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/go/variables/</loc>
+    <loc>//localhost:1313/posts/go/variables/</loc>
     <lastmod>2025-11-15T23:28:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/homepage/</loc>
+    <loc>//localhost:1313/homepage/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

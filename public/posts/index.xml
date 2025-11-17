@@ -2,419 +2,419 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Keith Thomson</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 14:14:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 14:14:05 -0500</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>☕ Mastering Regular Expressions in Python</title>
-      <link>http://localhost:1313/posts/python/regular_expressions_for_python/</link>
+      <link>//localhost:1313/posts/python/regular_expressions_for_python/</link>
       <pubDate>Sun, 16 Nov 2025 14:14:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/regular_expressions_for_python/</guid>
+      <guid>//localhost:1313/posts/python/regular_expressions_for_python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🏺 JavaScript Promises</title>
-      <link>http://localhost:1313/posts/javascript/promises/</link>
+      <link>//localhost:1313/posts/javascript/promises/</link>
       <pubDate>Sun, 16 Nov 2025 14:13:41 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript/promises/</guid>
+      <guid>//localhost:1313/posts/javascript/promises/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🏛️ Golang Structs Explained</title>
-      <link>http://localhost:1313/posts/go/structs/</link>
+      <link>//localhost:1313/posts/go/structs/</link>
       <pubDate>Sun, 16 Nov 2025 14:13:10 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/structs/</guid>
+      <guid>//localhost:1313/posts/go/structs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦆 Go Network Programming Guide</title>
-      <link>http://localhost:1313/posts/go/go_network_programming_guide/</link>
+      <link>//localhost:1313/posts/go/go_network_programming_guide/</link>
       <pubDate>Sun, 16 Nov 2025 14:12:34 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/go_network_programming_guide/</guid>
+      <guid>//localhost:1313/posts/go/go_network_programming_guide/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🩺 Error Handling in Go</title>
-      <link>http://localhost:1313/posts/go/errors/</link>
+      <link>//localhost:1313/posts/go/errors/</link>
       <pubDate>Sun, 16 Nov 2025 14:12:22 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/errors/</guid>
+      <guid>//localhost:1313/posts/go/errors/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🔭 Functions in Go</title>
-      <link>http://localhost:1313/posts/go/functions/</link>
+      <link>//localhost:1313/posts/go/functions/</link>
       <pubDate>Sun, 16 Nov 2025 14:11:50 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/functions/</guid>
+      <guid>//localhost:1313/posts/go/functions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🐍 Flask REST API Setup: A Step-by-Step Tutorial</title>
-      <link>http://localhost:1313/posts/python/flask_rest_api_setup/</link>
+      <link>//localhost:1313/posts/python/flask_rest_api_setup/</link>
       <pubDate>Sun, 16 Nov 2025 14:10:27 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/flask_rest_api_setup/</guid>
+      <guid>//localhost:1313/posts/python/flask_rest_api_setup/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🔐 Deploy an Express App with Docker, Nginx, and HTTPS</title>
-      <link>http://localhost:1313/posts/javascript/docker-nginx-ubuntu/</link>
+      <link>//localhost:1313/posts/javascript/docker-nginx-ubuntu/</link>
       <pubDate>Sun, 16 Nov 2025 14:10:13 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript/docker-nginx-ubuntu/</guid>
+      <guid>//localhost:1313/posts/javascript/docker-nginx-ubuntu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🏞 Ethics for the Future of Humanity</title>
-      <link>http://localhost:1313/posts/general/ethics_for_the_future_of_humanity/</link>
+      <link>//localhost:1313/posts/general/ethics_for_the_future_of_humanity/</link>
       <pubDate>Sun, 16 Nov 2025 14:09:29 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/general/ethics_for_the_future_of_humanity/</guid>
+      <guid>//localhost:1313/posts/general/ethics_for_the_future_of_humanity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🐍 Context Managers in Python</title>
-      <link>http://localhost:1313/posts/python/context/</link>
+      <link>//localhost:1313/posts/python/context/</link>
       <pubDate>Sun, 16 Nov 2025 14:08:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/context/</guid>
+      <guid>//localhost:1313/posts/python/context/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Rust Structs</title>
-      <link>http://localhost:1313/posts/rust/structs/</link>
+      <link>//localhost:1313/posts/rust/structs/</link>
       <pubDate>Sun, 16 Nov 2025 14:01:15 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/rust/structs/</guid>
+      <guid>//localhost:1313/posts/rust/structs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Rust Ownership</title>
-      <link>http://localhost:1313/posts/rust/ownership/</link>
+      <link>//localhost:1313/posts/rust/ownership/</link>
       <pubDate>Sun, 16 Nov 2025 14:01:10 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/rust/ownership/</guid>
+      <guid>//localhost:1313/posts/rust/ownership/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Mastering Asynchronous Programming in Rust</title>
-      <link>http://localhost:1313/posts/rust/mastering_async_programming_in_rust/</link>
+      <link>//localhost:1313/posts/rust/mastering_async_programming_in_rust/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:30 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/rust/mastering_async_programming_in_rust/</guid>
+      <guid>//localhost:1313/posts/rust/mastering_async_programming_in_rust/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Getting Started with Rust</title>
-      <link>http://localhost:1313/posts/rust/getting_started_with_rust/</link>
+      <link>//localhost:1313/posts/rust/getting_started_with_rust/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:19 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/rust/getting_started_with_rust/</guid>
+      <guid>//localhost:1313/posts/rust/getting_started_with_rust/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Building Web Applications with Axum in Rust</title>
-      <link>http://localhost:1313/posts/rust/building_web_applications_with_axum/</link>
+      <link>//localhost:1313/posts/rust/building_web_applications_with_axum/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:13 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/rust/building_web_applications_with_axum/</guid>
+      <guid>//localhost:1313/posts/rust/building_web_applications_with_axum/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Rust Borrowing</title>
-      <link>http://localhost:1313/posts/rust/borrowing/</link>
+      <link>//localhost:1313/posts/rust/borrowing/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:08 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/rust/borrowing/</guid>
+      <guid>//localhost:1313/posts/rust/borrowing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript Async/Await: A Comprehensive Guide</title>
-      <link>http://localhost:1313/posts/javascript/async/</link>
+      <link>//localhost:1313/posts/javascript/async/</link>
       <pubDate>Sun, 16 Nov 2025 13:57:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript/async/</guid>
+      <guid>//localhost:1313/posts/javascript/async/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Threading and Concurrency with Go</title>
-      <link>http://localhost:1313/posts/go/concurrency/</link>
+      <link>//localhost:1313/posts/go/concurrency/</link>
       <pubDate>Sun, 16 Nov 2025 13:56:31 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/concurrency/</guid>
+      <guid>//localhost:1313/posts/go/concurrency/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Role of Sensors in IoT</title>
-      <link>http://localhost:1313/posts/general/iot_sensors_/</link>
+      <link>//localhost:1313/posts/general/iot_sensors_/</link>
       <pubDate>Sun, 16 Nov 2025 13:54:24 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/general/iot_sensors_/</guid>
+      <guid>//localhost:1313/posts/general/iot_sensors_/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>HTML Elements Table</title>
-      <link>http://localhost:1313/posts/references/html_semantic_reference/</link>
+      <link>//localhost:1313/posts/references/html_semantic_reference/</link>
       <pubDate>Sun, 16 Nov 2025 13:54:10 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/references/html_semantic_reference/</guid>
+      <guid>//localhost:1313/posts/references/html_semantic_reference/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Understanding HTTP Concepts</title>
-      <link>http://localhost:1313/posts/references/http-overview/</link>
+      <link>//localhost:1313/posts/references/http-overview/</link>
       <pubDate>Sun, 16 Nov 2025 13:54:10 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/references/http-overview/</guid>
+      <guid>//localhost:1313/posts/references/http-overview/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Using Finance APIs to Build Smart Financial Tools</title>
-      <link>http://localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</link>
+      <link>//localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</link>
       <pubDate>Sun, 16 Nov 2025 13:52:42 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</guid>
+      <guid>//localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Using Google BigQuery with Python: A Practical Guide</title>
-      <link>http://localhost:1313/posts/python/using_google_bigquery_with_python/</link>
+      <link>//localhost:1313/posts/python/using_google_bigquery_with_python/</link>
       <pubDate>Sun, 16 Nov 2025 13:52:42 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/using_google_bigquery_with_python/</guid>
+      <guid>//localhost:1313/posts/python/using_google_bigquery_with_python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🔭 Golang Data Structures</title>
-      <link>http://localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</link>
+      <link>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</link>
       <pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</guid>
+      <guid>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Interfaces in Go</title>
-      <link>http://localhost:1313/posts/go/interfaces/</link>
+      <link>//localhost:1313/posts/go/interfaces/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/interfaces/</guid>
+      <guid>//localhost:1313/posts/go/interfaces/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript Arrays</title>
-      <link>http://localhost:1313/posts/javascript/arrays/</link>
+      <link>//localhost:1313/posts/javascript/arrays/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript/arrays/</guid>
+      <guid>//localhost:1313/posts/javascript/arrays/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript Functions</title>
-      <link>http://localhost:1313/posts/javascript/functions/</link>
+      <link>//localhost:1313/posts/javascript/functions/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript/functions/</guid>
+      <guid>//localhost:1313/posts/javascript/functions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript Objects</title>
-      <link>http://localhost:1313/posts/javascript/objects/</link>
+      <link>//localhost:1313/posts/javascript/objects/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript/objects/</guid>
+      <guid>//localhost:1313/posts/javascript/objects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript Variables</title>
-      <link>http://localhost:1313/posts/javascript/variables/</link>
+      <link>//localhost:1313/posts/javascript/variables/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/javascript/variables/</guid>
+      <guid>//localhost:1313/posts/javascript/variables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Classes</title>
-      <link>http://localhost:1313/posts/python/classes/</link>
+      <link>//localhost:1313/posts/python/classes/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/classes/</guid>
+      <guid>//localhost:1313/posts/python/classes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Data Types</title>
-      <link>http://localhost:1313/posts/python/data_types/</link>
+      <link>//localhost:1313/posts/python/data_types/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/data_types/</guid>
+      <guid>//localhost:1313/posts/python/data_types/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Exceptions</title>
-      <link>http://localhost:1313/posts/python/exceptions/</link>
+      <link>//localhost:1313/posts/python/exceptions/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/exceptions/</guid>
+      <guid>//localhost:1313/posts/python/exceptions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Functions</title>
-      <link>http://localhost:1313/posts/python/functions/</link>
+      <link>//localhost:1313/posts/python/functions/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/functions/</guid>
+      <guid>//localhost:1313/posts/python/functions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Modules</title>
-      <link>http://localhost:1313/posts/python/modules/</link>
+      <link>//localhost:1313/posts/python/modules/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/python/modules/</guid>
+      <guid>//localhost:1313/posts/python/modules/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ruby Blocks and Procs</title>
-      <link>http://localhost:1313/posts/ruby/blocks/</link>
+      <link>//localhost:1313/posts/ruby/blocks/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/ruby/blocks/</guid>
+      <guid>//localhost:1313/posts/ruby/blocks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ruby Classes and Objects</title>
-      <link>http://localhost:1313/posts/ruby/classes/</link>
+      <link>//localhost:1313/posts/ruby/classes/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/ruby/classes/</guid>
+      <guid>//localhost:1313/posts/ruby/classes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ruby Symbols and Strings</title>
-      <link>http://localhost:1313/posts/ruby/symbols/</link>
+      <link>//localhost:1313/posts/ruby/symbols/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/ruby/symbols/</guid>
+      <guid>//localhost:1313/posts/ruby/symbols/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>TypeScript Generics</title>
-      <link>http://localhost:1313/posts/typescript/generics/</link>
+      <link>//localhost:1313/posts/typescript/generics/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/typescript/generics/</guid>
+      <guid>//localhost:1313/posts/typescript/generics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>TypeScript Interfaces</title>
-      <link>http://localhost:1313/posts/typescript/interfaces/</link>
+      <link>//localhost:1313/posts/typescript/interfaces/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/typescript/interfaces/</guid>
+      <guid>//localhost:1313/posts/typescript/interfaces/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>TypeScript Types</title>
-      <link>http://localhost:1313/posts/typescript/types/</link>
+      <link>//localhost:1313/posts/typescript/types/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/typescript/types/</guid>
+      <guid>//localhost:1313/posts/typescript/types/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Variables in Go</title>
-      <link>http://localhost:1313/posts/go/variables/</link>
+      <link>//localhost:1313/posts/go/variables/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/variables/</guid>
+      <guid>//localhost:1313/posts/go/variables/</guid>
       <description></description>
       
     </item>

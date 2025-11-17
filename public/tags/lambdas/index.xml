@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lambdas on Keith Thomson</title>
-    <link>http://localhost:1313/tags/lambdas/</link>
+    <link>//localhost:1313/tags/lambdas/</link>
     <description>Recent content in Lambdas on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
-    <lastBuildDate>Sat, 15 Nov 2025 23:28:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/lambdas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2025 23:28:05 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/lambdas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ruby Blocks and Procs</title>
-      <link>http://localhost:1313/posts/ruby/blocks/</link>
+      <link>//localhost:1313/posts/ruby/blocks/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/ruby/blocks/</guid>
+      <guid>//localhost:1313/posts/ruby/blocks/</guid>
       <description></description>
       
     </item>

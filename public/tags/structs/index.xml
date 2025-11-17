@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Structs on Keith Thomson</title>
-    <link>http://localhost:1313/tags/structs/</link>
+    <link>//localhost:1313/tags/structs/</link>
     <description>Recent content in Structs on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 14:13:10 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/structs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 14:13:10 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/structs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🏛️ Golang Structs Explained</title>
-      <link>http://localhost:1313/posts/go/structs/</link>
+      <link>//localhost:1313/posts/go/structs/</link>
       <pubDate>Sun, 16 Nov 2025 14:13:10 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/go/structs/</guid>
+      <guid>//localhost:1313/posts/go/structs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Rust Structs</title>
-      <link>http://localhost:1313/posts/rust/structs/</link>
+      <link>//localhost:1313/posts/rust/structs/</link>
       <pubDate>Sun, 16 Nov 2025 14:01:15 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/rust/structs/</guid>
+      <guid>//localhost:1313/posts/rust/structs/</guid>
       <description></description>
       
     </item>
