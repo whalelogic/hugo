@@ -1,6 +1,7 @@
 # Whalelogic Website Source
+[![Deploy Hugo Site to GitHub Pages](https://github.com/whalelogic/hugo/actions/workflows/hugo.yml/badge.svg)](https://github.com/whalelogic/hugo/actions/workflows/hugo.yml)
 
-This is the official repository for my personal website, built with the [Hugo](https://gohugo.io/) static site generator and the [Blowfish](https://blowfish.page/) theme.
+#### This is the official repository for my personal website, built with the [Hugo](https://gohugo.io/) static site generator and the [Blowfish](https://blowfish.page/) theme.
 
 **Note:** The live website is generated from the code in this repository.
 
