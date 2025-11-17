@@ -2,7 +2,7 @@
 date: "2025-11-16T13:56:31-05:00"
 author: Keith Thomson
 categories:
-- Programming
+- Golang
 tags:
 - go
 - concurrency

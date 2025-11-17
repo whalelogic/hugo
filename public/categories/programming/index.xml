@@ -140,31 +140,11 @@
     </item>
     
     <item>
-      <title>Threading and Concurrency with Go</title>
-      <link>//localhost:1313/posts/go/concurrency/</link>
-      <pubDate>Sun, 16 Nov 2025 13:56:31 -0500</pubDate>
-      
-      <guid>//localhost:1313/posts/go/concurrency/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Using Google BigQuery with Python: A Practical Guide</title>
       <link>//localhost:1313/posts/python/using_google_bigquery_with_python/</link>
       <pubDate>Sun, 16 Nov 2025 13:52:42 -0500</pubDate>
       
       <guid>//localhost:1313/posts/python/using_google_bigquery_with_python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>🔭 Golang Data Structures</title>
-      <link>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</link>
-      <pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate>
-      
-      <guid>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</guid>
       <description></description>
       
     </item>

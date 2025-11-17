@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Keith Thomson</title>
+    <link>//localhost:1313/categories/golang/</link>
+    <description>Recent content in Golang on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 13:56:31 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Threading and Concurrency with Go</title>
+      <link>//localhost:1313/posts/go/concurrency/</link>
+      <pubDate>Sun, 16 Nov 2025 13:56:31 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/go/concurrency/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🔭 Golang Data Structures</title>
+      <link>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</link>
+      <pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

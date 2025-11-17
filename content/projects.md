@@ -8,12 +8,12 @@ title = "Projects"
 
 <div class="projects-grid">
 {{< github repo="whalelogic/Go-Programming" showThumbnail=true >}}
-{{< github repo="whalelogic/coderef" showThumbnail=true >}}
-{{< github repo="whalelogic/evbagel" showThumbnail=true >}}
-{{< github repo="whalelogic/terraincloudnito" showThumbnail=true >}}
-{{< github repo="whalelogic/WhaleCorpus" showThumbnail=true >}}
-{{< github repo="whalelogic/gotth" showThumbnail=true >}}
+{{< github repo="whalelogic/hugo" showThumbnail=true >}}
 {{< github repo="whalelogic/Arcade-Snake-Game" showThumbnail=true >}}
+{{< github repo="whalelogic/Awesome-Vue-Frontend" showThumbnail=true >}}
+{{< github repo="whalelogic/coderef" showThumbnail=true >}}
+{{< github repo="whalelogic/terraincloudnito" showThumbnail=true >}}
+{{< github repo="whalelogic/gotth" showThumbnail=true >}}
 </div>
 
 

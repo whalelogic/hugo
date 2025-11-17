@@ -2,7 +2,7 @@
 author: "Keith Thomson"
 date: "2025-11-16T13:25:14-05:00"
 categories:
-  - Programming
+  - Golang
   - Data Science
 description: "Go (Golang) provides a rich set of built-in and library-supported data structures that make it powerful for both systems programming and application development."
 tags:

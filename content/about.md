@@ -9,8 +9,10 @@ title = 'About'
 
 I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services, data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__
 
+> "Do it now. Tomorrow is often the busiest day of the week." - Unknown
 
-#### 📫 How to reach me: <pre>thomsonk930@gmail.com </pre><pre>thomsonk2@southernct.edu</pre>
+<hr>
+
 ## 🎓 Education
 
 <ul>
@@ -91,5 +93,9 @@ I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and
 - Deep Learning for Coders with fastai and PyTorch 
 
 
-## Check out my [Projects](/projects) page to see what I've been working on!
+#### 📫 Email: | thomsonk930@gmail.com | thomsonk2@southernct.edu |
+#### 🌐 Website: | https://whalelogic.io | https://terraincloudnito.com |
+<br>
+
+### Contact me for freelance work, or just to say hi! 😊
 
