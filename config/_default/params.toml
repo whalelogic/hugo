@@ -38,8 +38,8 @@ smartTOC = true
 
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 
-giteaDefaultServer = "https://git.fsfe.org"
-forgejoDefaultServer = "https://v11.next.forgejo.org"
+# giteaDefaultServer = "https://git.fsfe.org"
+# forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 
 [header]
@@ -71,7 +71,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
-  # showAuthorBottom = false
+  showAuthorBottom = true
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   # layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -79,7 +79,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  editURL = "https://github.com/whalelogic/hugo/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -91,10 +91,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   relatedContentLimit = 3
   showTaxonomies = true # use showTaxonomies OR showCategoryOnly, not both
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
-  showAuthorsBadges = false
+  showAuthorsBadges = true
   showWordCount = true
-  sharingLinks = [ "linkedin", "twitter", "mastodon", "reddit", "pinterest", "facebook", "email"]
-  showZenMode = false
+  sharingLinks = [ "linkedin", "twitter", "email"]
+  showZenMode = true
 
 [list]
   showHero = false
@@ -111,7 +111,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   groupByYear = true
   cardView = true
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
@@ -134,7 +134,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showLikes = false
   showTableOfContents = true
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
 
 [firebase]

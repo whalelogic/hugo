@@ -12,7 +12,7 @@ title = "Keith Thomson"
   logo = "img/fishtank.png"
   secondaryLogo = "img/fishtank.png"
   description = "Keith Thomson - Cloud Engineer | Developer --- Professional Portfolio and Blog Site"
-  copyright = "✏️ Copyrighted ☄️ 2024 Keith Thomson"
+  copyright = "Copyrighted ✏️2024 Keith Thomson"
 
 [author]
    name = "🐧 Keith Thomson"
@@ -48,7 +48,7 @@ title = "Keith Thomson"
      { linkedin = "https://linkedin.com/in/keith-t-146081322" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
-#     { medium = "https://medium.com/username" },
+     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
 #     { patreon = "https://www.patreon.com/username" },
@@ -70,7 +70,7 @@ title = "Keith Thomson"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]

@@ -1,8 +1,8 @@
 {{ define "main" }}
-<div class="container mx-auto px-4 py-4">
+<div class="container mx-auto px-4">
   <div class="flex flex-col items-center">
     {{/* Profile Image */}}
-    <div class="mb-4">
+    <div class="mb-2">
       <img src="{{ .Site.Params.homepage.homepageImage | relURL }}" alt="Profile Picture" class="mx-auto h-64 w-64 rounded-full object-cover">
     </div>
 
@@ -11,11 +11,11 @@
       {{ range .Site.Params.social }}
         {{ if eq .name "GitHub" }}
           <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile">
-            <img src="/icons/github/github-original.svg" alt="GitHub" class="h-12 w-12">
+            <img src="/icons/github/github-original.svg" alt="GitHub" class="h-8 w-8">
           </a>
         {{ else if eq .name "LinkedIn" }}
           <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
-            <img src="/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="h-12 w-12">
+            <img src="/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="h-8 w-8">
           </a>
         {{ end }}
       {{ end }}
