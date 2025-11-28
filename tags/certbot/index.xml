@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Certbot on Keith Thomson</title><link>/tags/certbot/</link><description>Recent content in Certbot on Keith Thomson</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyrighted ✏️2024 Keith Thomson</copyright><lastBuildDate>Sun, 16 Nov 2025 14:10:13 -0500</lastBuildDate><atom:link href="/tags/certbot/index.xml" rel="self" type="application/rss+xml"/><item><title>🔐 Deploy an Express App with Docker, Nginx, and HTTPS</title><link>/posts/javascript/docker-nginx-ubuntu/</link><pubDate>Sun, 16 Nov 2025 14:10:13 -0500</pubDate><guid>/posts/javascript/docker-nginx-ubuntu/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certbot on Keith Thomson</title>
+    <link>//localhost:1313/tags/certbot/</link>
+    <description>Recent content in Certbot on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 14:10:13 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/certbot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🔐 Deploy an Express App with Docker, Nginx, and HTTPS</title>
+      <link>//localhost:1313/posts/javascript/docker-nginx-ubuntu/</link>
+      <pubDate>Sun, 16 Nov 2025 14:10:13 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/javascript/docker-nginx-ubuntu/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

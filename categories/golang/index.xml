@@ -1,1 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Golang on Keith Thomson</title><link>/categories/golang/</link><description>Recent content in Golang on Keith Thomson</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyrighted ✏️2024 Keith Thomson</copyright><lastBuildDate>Sun, 16 Nov 2025 13:56:31 -0500</lastBuildDate><atom:link href="/categories/golang/index.xml" rel="self" type="application/rss+xml"/><item><title>Threading and Concurrency with Go</title><link>/posts/go/concurrency/</link><pubDate>Sun, 16 Nov 2025 13:56:31 -0500</pubDate><guid>/posts/go/concurrency/</guid><description/></item><item><title>🔭 Golang Data Structures</title><link>/posts/go/data_structures_in_go_a_comprehensive_guide/</link><pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate><guid>/posts/go/data_structures_in_go_a_comprehensive_guide/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Keith Thomson</title>
+    <link>//localhost:1313/categories/golang/</link>
+    <description>Recent content in Golang on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🖧 Understanding HTTP Concepts</title>
+      <link>//localhost:1313/posts/general/http-overview/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/http-overview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🥋 Advanced Go Idioms Table</title>
+      <link>//localhost:1313/posts/general/go_idioms_table/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/go_idioms_table/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🧑‍💻 Password Management Application</title>
+      <link>//localhost:1313/posts/general/go-vault/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/go-vault/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Threading and Concurrency with Go</title>
+      <link>//localhost:1313/posts/go/concurrency/</link>
+      <pubDate>Sun, 16 Nov 2025 13:56:31 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/go/concurrency/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🔭 Golang Data Structures</title>
+      <link>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</link>
+      <pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
