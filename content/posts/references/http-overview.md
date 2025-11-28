@@ -2,7 +2,8 @@
 date: "2025-11-16T13:54:10-05:00"
 author: "Keith Thomson"
 categories:
-  - "Web Development"
+  - "Network"
+  - "Go"
 description: "A guide to understanding fundamental HTTP concepts, including the anatomy of a request, how Go parses requests, and how to use headers effectively."
 tags:
   - "http"

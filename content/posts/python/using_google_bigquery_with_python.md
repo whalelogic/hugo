@@ -3,6 +3,7 @@ date: "2025-11-16T13:52:42-05:00"
 author: "Keith Thomson"
 categories:
   - Programming
+  - Guides 
 description: |
   Google BigQuery is a fully-managed, serverless data warehouse that enables
   scalable analysis over petabytes of data. When combined with Python, it becomes

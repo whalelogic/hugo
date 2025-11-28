@@ -3,30 +3,52 @@
   <div class="flex flex-col items-center">
     {{/* Profile Image */}}
     <div class="mb-2">
-      <img src="{{ .Site.Params.homepage.homepageImage | relURL }}" alt="Profile Picture" class="mx-auto h-64 w-64 rounded-full object-cover">
+      <img
+        src="{{ .Site.Params.homepage.homepageImage | relURL }}"
+        alt="Profile Picture"
+        class="mx-auto h-64 w-64 rounded-full object-cover"
+      />
     </div>
 
     {{/* Social Icons */}}
     <div class="flex justify-center space-x-6 p-4">
-      {{ range .Site.Params.social }}
-        {{ if eq .name "GitHub" }}
-          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile">
-            <img src="/icons/github/github-original.svg" alt="GitHub" class="h-8 w-8">
-          </a>
-        {{ else if eq .name "LinkedIn" }}
-          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
-            <img src="/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="h-8 w-8">
-          </a>
-        {{ end }}
-      {{ end }}
+      {{ range .Site.Params.social }} {{ if eq .name "GitHub" }}
+      <a
+        href="{{ .url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="GitHub Profile"
+      >
+        <img
+          src="/icons/github/github-original.svg"
+          alt="GitHub"
+          class="h-8 w-8"
+        />
+      </a>
+      {{ else if eq .name "LinkedIn" }}
+      <a
+        href="{{ .url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="LinkedIn Profile"
+      >
+        <img
+          src="/icons/linkedin/linkedin-original.svg"
+          alt="LinkedIn"
+          class="h-8 w-8"
+        />
+      </a>
+      {{ else if eq .name "Email" }}
+      <a href="mailto:{{ .url }}" rel="noopener noreferrer" aria-label="Email">
+        <img src="/icons/email.svg" alt="Email" class="h-8 w-8" />
+      </a>
+      {{ end }} {{ end }}
     </div>
 
     {{/* Bio */}}
     <div class="text-center mt-4">
       <h1 class="text-4xl font-bold pb-4">{{ .Site.Title }}</h1>
-      <div class="prose dark:prose-invert mt-4">
-        {{ .Content }}
-      </div>
+      <div class="prose dark:prose-invert mt-4">{{ .Content }}</div>
     </div>
 
     {{/* Recent Posts */}}
@@ -34,10 +56,14 @@
       <h2 class="text-2xl font-bold mb-4 text-primary-400">Recent Posts</h2>
       <ul>
         {{ range first 8 (where .Site.RegularPages "Type" "posts") }}
-          <li class="mb-4 py-2">
-            <a href="{{ .RelPermalink }}" class="text-xl font-semibold text-primary-200 hover:text-blue-900 hover:underline">{{ .Title }}</a>
-            <!-- <p class="text-gray-600 dark:text-gray-400">{{ .Params.tags }}</p> -->
-          </li>
+        <li class="mb-4 py-2">
+          <a
+            href="{{ .RelPermalink }}"
+            class="text-xl font-semibold text-primary-200 hover:text-blue-900 hover:underline"
+            >{{ .Title }}</a
+          >
+          <!-- <p class="text-gray-600 dark:text-gray-400">{{ .Params.tags }}</p> -->
+        </li>
         {{ end }}
       </ul>
     </div>

@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/posts/python/regular_expressions_for_python/</loc>
-    <lastmod>2025-11-16T14:14:05-05:00</lastmod>
+    <loc>//localhost:1313/posts/general/go-vault/</loc>
+    <lastmod>2025-11-27T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-11-16T14:14:05-05:00</lastmod>
+    <lastmod>2025-11-27T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2025-11-27T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/general/http-overview/</loc>
+    <lastmod>2025-11-27T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/general/go_idioms_table/</loc>
+    <lastmod>2025-11-27T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/general/html_semantic_reference/</loc>
+    <lastmod>2025-11-27T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/python/regular_expressions_for_python/</loc>
     <lastmod>2025-11-16T14:14:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -59,6 +83,12 @@
   <url>
     <loc>//localhost:1313/posts/javascript/docker-nginx-ubuntu/</loc>
     <lastmod>2025-11-16T14:10:13-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/general/dialogue_engine/</loc>
+    <lastmod>2025-11-16T14:09:29-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

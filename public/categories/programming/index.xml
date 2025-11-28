@@ -6,8 +6,28 @@
     <description>Recent content in Programming on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 14:13:41 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🏫 Password Management CLI tool - Your Guide</title>
+      <link>//localhost:1313/posts/general/go-vault/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/go-vault/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🥋 Advanced Go Idioms</title>
+      <link>//localhost:1313/posts/general/go_idioms_table/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/go_idioms_table/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>🏺 JavaScript Promises</title>
@@ -30,16 +50,6 @@
     </item>
     
     <item>
-      <title>🦆 Go Network Programming Guide</title>
-      <link>//localhost:1313/posts/go/go_network_programming_guide/</link>
-      <pubDate>Sun, 16 Nov 2025 14:12:34 -0500</pubDate>
-      
-      <guid>//localhost:1313/posts/go/go_network_programming_guide/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>🩺 Error Handling in Go</title>
       <link>//localhost:1313/posts/go/errors/</link>
       <pubDate>Sun, 16 Nov 2025 14:12:22 -0500</pubDate>
@@ -55,6 +65,16 @@
       <pubDate>Sun, 16 Nov 2025 14:11:50 -0500</pubDate>
       
       <guid>//localhost:1313/posts/go/functions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🏛️ Systems Design Document: Philosophical Dialogue Engine</title>
+      <link>//localhost:1313/posts/general/dialogue_engine/</link>
+      <pubDate>Sun, 16 Nov 2025 14:09:29 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/dialogue_engine/</guid>
       <description></description>
       
     </item>
@@ -145,6 +165,16 @@
       <pubDate>Sun, 16 Nov 2025 13:52:42 -0500</pubDate>
       
       <guid>//localhost:1313/posts/python/using_google_bigquery_with_python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🔭 Golang Data Structures</title>
+      <link>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</link>
+      <pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/go/data_structures_in_go_a_comprehensive_guide/</guid>
       <description></description>
       
     </item>

@@ -6,8 +6,18 @@
     <description>Recent content in Series on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
-    <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
+    <lastBuildDate>Sun, 16 Nov 2025 14:09:29 -0500</lastBuildDate><atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>General</title>
+      <link>//localhost:1313/series/general/</link>
+      <pubDate>Sun, 16 Nov 2025 14:09:29 -0500</pubDate>
+      
+      <guid>//localhost:1313/series/general/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

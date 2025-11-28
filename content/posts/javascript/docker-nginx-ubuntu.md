@@ -2,21 +2,13 @@
 date: "2025-11-16T14:10:13-05:00"
 author: "Keith Thomson"
 categories:
-  - "DevOps"
   - "Web Development"
 description: "A comprehensive guide to deploying Express applications on Ubuntu using Docker, Nginx as a reverse proxy, and HTTPS with Certbot for secure web application deployment."
 tags:
   - "docker"
-  - "nginx"
-  - "ubuntu"
-  - "express"
   - "https"
-  - "certbot"
-  - "deployment"
   - "devops"
-  - "web-server"
   - "http"
-  - "networking"
 title: "🔐 Deploy an Express App with Docker, Nginx, and HTTPS"
 ---
 

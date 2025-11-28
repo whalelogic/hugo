@@ -2,7 +2,8 @@
 date: "2025-11-16T13:54:10-05:00"
 author: "Keith Thomson"
 categories:
-  - "Technology"
+  - "Web Development"
+  - "Reference"
 description: "This document lists all major HTML semantic tags, explains their purposes, and provides code snippets for each."
 tags:
   - "html"

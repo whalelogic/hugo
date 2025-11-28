@@ -6,7 +6,7 @@
     <description>Recent content in Programming on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
     <lastBuildDate>Sun, 16 Nov 2025 14:14:05 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -55,6 +55,16 @@
       <pubDate>Sun, 16 Nov 2025 14:11:50 -0500</pubDate>
       
       <guid>//localhost:1313/posts/go/functions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🏛️ Systems Design Document: Philosophical Dialogue Engine</title>
+      <link>//localhost:1313/posts/general/dialogue_engine/</link>
+      <pubDate>Sun, 16 Nov 2025 14:09:29 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/dialogue_engine/</guid>
       <description></description>
       
     </item>

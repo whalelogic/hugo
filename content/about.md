@@ -7,11 +7,19 @@ title = 'About'
 
 # Hello!! 👋  
 
-I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services, data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__
+I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and efficent. Take a look 
+at the projects page to see what I've been working on. 
 
-> "Do it now. Tomorrow is often the busiest day of the week." - Unknown
+##### 📫 thomsonk930@gmail.com or thomsonk2@southernct.edu
 
-<hr>
+## 🛠️ Languages, Tools and Technologies 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,linux,regex,docker,kubernetes,github,bash,alpinejs,nodejs,aws,gcp,azure,git,terraform,ansible,pytorch,tensorflow,vscode,postgres,mongodb,dynamodb,fastapi,htmx&theme=dark&perline=8" />
+  </a>
+</p>
+
 
 ## 🎓 Education
 
@@ -35,15 +43,7 @@ I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and
 - 🫧 Micro-Services Architecture 
 - 🧠 Nueral Networks, Machine Learning and AI
 
-## 🛠️ Languages, Tools and Technologies 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,linux,regex,docker,kubernetes,github,bash,alpinejs,nodejs,aws,gcp,azure,git,terraform,ansible,pytorch,tensorflow,vscode,postgres,mongodb,dynamodb,fastapi,htmx&theme=dark&perline=8" />
-  </a>
-</p>
-
-## 🥇 Certifcations
+## 🥇 Certifications and Commissions
 
 <ul>
         <li>C++ Developer</li>
@@ -51,8 +51,6 @@ I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and
         <li>CompTIA A+</li>
         <li>AWS Cloud Practitioner</li>
         <li>Army NCO Leadership Academy - Grafhenwohr, Germany</li>
-        <li>Combat Lifesaver CPR/AED</li>
-        <li>Certified Phlebotomist - State of New Jersey</li>
 </ul>
 
 ## 🎓 Education
@@ -75,9 +73,8 @@ I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and
 
 <br>
 
-### 📫 How to reach me: thomsonk930@gmail.com or thomsonk2@southernct.edu
 
-## 📚 Interesting Books 
+#### 📚 A list of Books about software, programming and information systems. 
 
 - The Go Programming Language 
 - Programming Rust - O'Reilly
@@ -89,13 +86,12 @@ I'm Keith. I design and develop **Cloud-Native Solutions** that are scalable and
 - Clean Code - Great book outlining best practices and concepts
 - Network Programming with Go
 - Python for Data Science
-- C++ for Dummies
 - Deep Learning for Coders with fastai and PyTorch 
 
+---
 
-#### 📫 Email: | thomsonk930@gmail.com | thomsonk2@southernct.edu |
-#### 🌐 Website: | https://whalelogic.io | https://terraincloudnito.com |
-<br>
 
-### Contact me for freelance work, or just to say hi! 😊
+### I'm always looking for new opportunities. 
+
+##### 📫 thomsonk930@gmail.com or thomsonk2@southernct.edu
 

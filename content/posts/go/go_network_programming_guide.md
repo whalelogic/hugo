@@ -2,8 +2,9 @@
 date: "2025-11-16T14:12:34-05:00"
 author: "Keith Thomson"
 categories:
-  - "Programming"
-  - "Web Development"
+  - "Guides"
+  - "Network"
+  - "Go"
 description: "Go's net/http package is one of its most powerful standard libraries---it enables you to build web servers, clients, REST APIs, and even microservices."
 tags:
   - "go"

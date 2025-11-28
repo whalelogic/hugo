@@ -6,15 +6,35 @@
     <description>Recent content in Categories on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 14:14:05 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Technology</title>
-      <link>//localhost:1313/categories/technology/</link>
-      <pubDate>Sun, 16 Nov 2025 14:14:05 -0500</pubDate>
+      <title>Go</title>
+      <link>//localhost:1313/categories/go/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
       
-      <guid>//localhost:1313/categories/technology/</guid>
+      <guid>//localhost:1313/categories/go/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guides</title>
+      <link>//localhost:1313/categories/guides/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/categories/guides/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>//localhost:1313/categories/network/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/categories/network/</guid>
       <description></description>
       
     </item>
@@ -22,7 +42,7 @@
     <item>
       <title>Programming</title>
       <link>//localhost:1313/categories/programming/</link>
-      <pubDate>Sun, 16 Nov 2025 14:13:41 -0500</pubDate>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/categories/programming/</guid>
       <description></description>
@@ -30,9 +50,19 @@
     </item>
     
     <item>
+      <title>Systems Design</title>
+      <link>//localhost:1313/categories/systems-design/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/categories/systems-design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Web Development</title>
       <link>//localhost:1313/categories/web-development/</link>
-      <pubDate>Sun, 16 Nov 2025 14:12:34 -0500</pubDate>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
       
       <guid>//localhost:1313/categories/web-development/</guid>
       <description></description>
@@ -40,41 +70,21 @@
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>//localhost:1313/categories/devops/</link>
-      <pubDate>Sun, 16 Nov 2025 14:10:13 -0500</pubDate>
+      <title>Reference</title>
+      <link>//localhost:1313/categories/reference/</link>
+      <pubDate>Sun, 16 Nov 2025 14:14:05 -0500</pubDate>
       
-      <guid>//localhost:1313/categories/devops/</guid>
+      <guid>//localhost:1313/categories/reference/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>//localhost:1313/categories/golang/</link>
-      <pubDate>Sun, 16 Nov 2025 13:56:31 -0500</pubDate>
+      <title>Technology</title>
+      <link>//localhost:1313/categories/technology/</link>
+      <pubDate>Sun, 16 Nov 2025 14:09:29 -0500</pubDate>
       
-      <guid>//localhost:1313/categories/golang/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Internet of Things</title>
-      <link>//localhost:1313/categories/internet-of-things/</link>
-      <pubDate>Sun, 16 Nov 2025 13:54:24 -0500</pubDate>
-      
-      <guid>//localhost:1313/categories/internet-of-things/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Science</title>
-      <link>//localhost:1313/categories/data-science/</link>
-      <pubDate>Sun, 16 Nov 2025 13:25:14 -0500</pubDate>
-      
-      <guid>//localhost:1313/categories/data-science/</guid>
+      <guid>//localhost:1313/categories/technology/</guid>
       <description></description>
       
     </item>

@@ -2,7 +2,7 @@
 date: "2025-11-16T13:52:42-05:00"
 author: Keith Thomson
 categories:
-- Web Development
+- Guides
 - Technology
 description: In the age of real-time analytics, Finance APIs have become the cornerstone
   of modern financial applications. Whether you're building a stock tracking dashboard,
@@ -12,9 +12,7 @@ tags:
 - finance
 - api
 - python
-- fintech
 - development
-- web-services
 title: Using Finance APIs to Build Smart Financial Tools
 ---
 

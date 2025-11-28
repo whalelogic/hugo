@@ -2,7 +2,8 @@
 date: "2025-11-16T14:11:50-05:00"
 author: Keith Thomson
 categories:
-- Programming
+- "Programming"
+- "Go"
 tags:
 - go
 - functions

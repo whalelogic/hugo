@@ -3,6 +3,7 @@ date: "2025-11-16T14:13:10-05:00"
 author: Keith Thomson
 categories:
 - Programming
+- Go
 tags:
 - go
 - structs

@@ -2,7 +2,6 @@
 date: "2025-11-16T13:54:24-05:00"
 author: "Keith Thomson"
 categories:
-  - "Internet of Things"
   - "Technology"
 description: "By 2030, it’s projected that there will be over 100 billion connected devices around the globe. Behind every smart thermostat, wearable health tracker, or autonomous drone lies one essential."
 tags:

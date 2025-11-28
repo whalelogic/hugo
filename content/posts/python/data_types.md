@@ -3,7 +3,6 @@ date: "2025-11-15T23:28:05-05:00"
 author: Keith Thomson
 categories:
 - Programming
-- Data Science
 tags:
 - python
 - data-types

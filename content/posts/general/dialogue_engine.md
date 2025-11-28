@@ -3,16 +3,17 @@ date: "2025-11-16T14:09:29-05:00"
 author: "Keith Thomson"
 categories:
   - "Programming"
+  - "Systems Design"
 description: "This document outlines the architecture and design for a Web-Based AI Philosophical Dialogue Application."
 tags:
   - "programming"
   - "ai"
   - "philosophy"
+  - "systems design"
 title: "🏛️ Systems Design Document: Philosophical Dialogue Engine"
 series:
 - General
 ---
-
 
 
 # 🏛️ Systems Design Document: Philosophical Dialogue Engine

@@ -6,8 +6,38 @@
     <description>Recent content in Golang on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 13:56:31 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🖧 Understanding HTTP Concepts</title>
+      <link>//localhost:1313/posts/general/http-overview/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/http-overview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🥋 Advanced Go Idioms Table</title>
+      <link>//localhost:1313/posts/general/go_idioms_table/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/go_idioms_table/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🧑‍💻 Password Management Application</title>
+      <link>//localhost:1313/posts/general/go-vault/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/go-vault/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Threading and Concurrency with Go</title>

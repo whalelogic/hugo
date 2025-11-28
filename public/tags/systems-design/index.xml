@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems Design on Keith Thomson</title>
+    <link>//localhost:1313/tags/systems-design/</link>
+    <description>Recent content in Systems Design on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/systems-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🏫 Password Management CLI tool - Your Guide</title>
+      <link>//localhost:1313/posts/general/go-vault/</link>
+      <pubDate>Thu, 27 Nov 2025 12:00:00 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/go-vault/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🏛️ Systems Design Document: Philosophical Dialogue Engine</title>
+      <link>//localhost:1313/posts/general/dialogue_engine/</link>
+      <pubDate>Sun, 16 Nov 2025 14:09:29 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/general/dialogue_engine/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

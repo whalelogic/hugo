@@ -3,6 +3,7 @@ date: "2025-11-16T14:12:22-05:00"
 author: Keith Thomson
 categories:
 - Programming
+- Go
 tags:
 - go
 - error-handling
