@@ -23,10 +23,8 @@ at the projects page to see what I've been working on.
 
 ## 🎓 Education
 
-<ul>
-        <li> A.S. Computer Science - Cloud Computing 👨‍🎓 </li>    
-        <li>B.S. Computer Science - Information Systems - Minor in Philosophy       
-</ul>
+- A.S. Computer Science - Cloud Computing    
+- B.S. Computer Science - Information Systems   
 
 ## 🔎 Focuses: 
 
