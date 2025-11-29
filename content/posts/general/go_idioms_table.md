@@ -2,13 +2,10 @@
 date: "2025-11-27T12:00:00-05:00"
 author: "Keith Thomson"
 categories:
-  - "Programming"
   - "Go"
 description: "An AI-generated table of advanced Go idioms and techniques for formatting, inspection, error handling, and more."
 tags:
   - "go"
-  - "idioms"
-  - "table"
   - "reference"
 title: "🥋 Advanced Go Idioms"
 ---
@@ -19,12 +16,9 @@ title: "🥋 Advanced Go Idioms"
 
 | Category | Idiom / Technique | Why It Matters | Example | Notes / Gotchas |
 |---------|--------------------|----------------|---------|------------------|
-| Formatting & Inspection | `%#v` Go-syntax dump | Produce copy-pasteable Go structs for debugging | `fmt.Printf("%#v
-", cmd)` | Only prints exported fields |
-| Formatting & Inspection | `%T` on interfaces | Reveals concrete runtime type | `fmt.Printf("%T
-", x)` | Useful for debugging interface pollution |
-| Formatting & Inspection | `fmt.Printf("%[1]T %[1]v
-", v)` | Print type + value without repeating vars | Format indexing | Good for logging |
+| Formatting & Inspection | `%#v` Go-syntax dump | Produce copy-pasteable Go structs for debugging | `fmt.Printf("%#v", cmd)` | Only prints exported fields |
+| Formatting & Inspection | `%T` on interfaces | Reveals concrete runtime type | `fmt.Printf("%T", x)` | Useful for debugging interface pollution |
+| Formatting & Inspection | `fmt.Printf("%[1]T %[1]v", v)` | Print type + value without repeating vars | Format indexing | Good for logging |
 | Error Handling | `errors.Join` | Aggregate multiple errors | `return errors.Join(err1, err2)` | Useful in cleanup |
 | Error Handling | Wrapping with `%w` | Preserve stackchain | `fmt.Errorf("failed: %w", err)` | Enables unwrapping |
 | Context Usage | Context first argument | Idiomatic API design | `func Run(ctx context.Context)` | Signals lifecycle |

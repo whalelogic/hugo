@@ -2,7 +2,6 @@
 date: "2025-11-27T12:00:00-05:00"
 author: "Keith Thomson"
 categories:
-  - "Programming"
   - "Guides"
   - "Go"
   - "Systems Design"
@@ -10,7 +9,6 @@ description: "Designing a secure password manager is a great project to master G
 tags:
   - "go"
   - "cli"
-  - "cryptography"
   - "guide"
   - "systems design"
 title: "🏫 Password Management CLI tool - Your Guide"

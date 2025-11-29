@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Variables on Keith Thomson</title>
-    <link>//localhost:1313/tags/variables/</link>
+    <link>http://localhost:1313/tags/variables/</link>
     <description>Recent content in Variables on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
-    <lastBuildDate>Sat, 15 Nov 2025 23:28:05 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/variables/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2025 23:28:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/variables/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>JavaScript Variables</title>
-      <link>//localhost:1313/posts/javascript/variables/</link>
+      <link>http://localhost:1313/posts/javascript/variables/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/javascript/variables/</guid>
+      <guid>http://localhost:1313/posts/javascript/variables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Variables in Go</title>
-      <link>//localhost:1313/posts/go/variables/</link>
+      <link>http://localhost:1313/posts/go/variables/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/go/variables/</guid>
+      <guid>http://localhost:1313/posts/go/variables/</guid>
       <description></description>
       
     </item>

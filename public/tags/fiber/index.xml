@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiber on Keith Thomson</title>
-    <link>//localhost:1313/tags/fiber/</link>
+    <link>http://localhost:1313/tags/fiber/</link>
     <description>Recent content in Fiber on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 13:54:10 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/fiber/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 13:54:10 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/fiber/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Understanding HTTP Concepts</title>
-      <link>//localhost:1313/posts/references/http-overview/</link>
+      <link>http://localhost:1313/posts/references/http-overview/</link>
       <pubDate>Sun, 16 Nov 2025 13:54:10 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/references/http-overview/</guid>
+      <guid>http://localhost:1313/posts/references/http-overview/</guid>
       <description></description>
       
     </item>

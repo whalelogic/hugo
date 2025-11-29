@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Keith Thomson</title>
-    <link>//localhost:1313/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 14:14:05 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 14:14:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>☕ Mastering Regular Expressions in Python</title>
-      <link>//localhost:1313/posts/python/regular_expressions_for_python/</link>
+      <link>http://localhost:1313/posts/python/regular_expressions_for_python/</link>
       <pubDate>Sun, 16 Nov 2025 14:14:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/regular_expressions_for_python/</guid>
+      <guid>http://localhost:1313/posts/python/regular_expressions_for_python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🐍 Flask REST API Setup: A Step-by-Step Tutorial</title>
-      <link>//localhost:1313/posts/python/flask_rest_api_setup/</link>
+      <link>http://localhost:1313/posts/python/flask_rest_api_setup/</link>
       <pubDate>Sun, 16 Nov 2025 14:10:27 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/flask_rest_api_setup/</guid>
+      <guid>http://localhost:1313/posts/python/flask_rest_api_setup/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🐍 Context Managers in Python</title>
-      <link>//localhost:1313/posts/python/context/</link>
+      <link>http://localhost:1313/posts/python/context/</link>
       <pubDate>Sun, 16 Nov 2025 14:08:00 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/context/</guid>
+      <guid>http://localhost:1313/posts/python/context/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Using Finance APIs to Build Smart Financial Tools</title>
-      <link>//localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</link>
+      <link>http://localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</link>
       <pubDate>Sun, 16 Nov 2025 13:52:42 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</guid>
+      <guid>http://localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Using Google BigQuery with Python: A Practical Guide</title>
-      <link>//localhost:1313/posts/python/using_google_bigquery_with_python/</link>
+      <link>http://localhost:1313/posts/python/using_google_bigquery_with_python/</link>
       <pubDate>Sun, 16 Nov 2025 13:52:42 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/using_google_bigquery_with_python/</guid>
+      <guid>http://localhost:1313/posts/python/using_google_bigquery_with_python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Classes</title>
-      <link>//localhost:1313/posts/python/classes/</link>
+      <link>http://localhost:1313/posts/python/classes/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/classes/</guid>
+      <guid>http://localhost:1313/posts/python/classes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Data Types</title>
-      <link>//localhost:1313/posts/python/data_types/</link>
+      <link>http://localhost:1313/posts/python/data_types/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/data_types/</guid>
+      <guid>http://localhost:1313/posts/python/data_types/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Exceptions</title>
-      <link>//localhost:1313/posts/python/exceptions/</link>
+      <link>http://localhost:1313/posts/python/exceptions/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/exceptions/</guid>
+      <guid>http://localhost:1313/posts/python/exceptions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Functions</title>
-      <link>//localhost:1313/posts/python/functions/</link>
+      <link>http://localhost:1313/posts/python/functions/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/functions/</guid>
+      <guid>http://localhost:1313/posts/python/functions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python Modules</title>
-      <link>//localhost:1313/posts/python/modules/</link>
+      <link>http://localhost:1313/posts/python/modules/</link>
       <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/modules/</guid>
+      <guid>http://localhost:1313/posts/python/modules/</guid>
       <description></description>
       
     </item>

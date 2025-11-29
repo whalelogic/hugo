@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Keith Thomson</title>
-    <link>//localhost:1313/categories/technology/</link>
+    <link>http://localhost:1313/categories/technology/</link>
     <description>Recent content in Technology on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 14:09:29 -0500</lastBuildDate><atom:link href="//localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 14:09:29 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🏞 Ethics for the Future of Humanity</title>
-      <link>//localhost:1313/posts/general/ethics_for_the_future_of_humanity/</link>
+      <link>http://localhost:1313/posts/general/ethics_for_the_future_of_humanity/</link>
       <pubDate>Sun, 16 Nov 2025 14:09:29 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/general/ethics_for_the_future_of_humanity/</guid>
+      <guid>http://localhost:1313/posts/general/ethics_for_the_future_of_humanity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Role of Sensors in IoT</title>
-      <link>//localhost:1313/posts/general/iot_sensors_/</link>
+      <link>http://localhost:1313/posts/general/iot_sensors_/</link>
       <pubDate>Sun, 16 Nov 2025 13:54:24 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/general/iot_sensors_/</guid>
+      <guid>http://localhost:1313/posts/general/iot_sensors_/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Using Finance APIs to Build Smart Financial Tools</title>
-      <link>//localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</link>
+      <link>http://localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</link>
       <pubDate>Sun, 16 Nov 2025 13:52:42 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</guid>
+      <guid>http://localhost:1313/posts/python/using_finance_apis_to_build_smart_financial_tools/</guid>
       <description></description>
       
     </item>

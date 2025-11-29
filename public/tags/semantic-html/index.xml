@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semantic-Html on Keith Thomson</title>
-    <link>//localhost:1313/tags/semantic-html/</link>
+    <link>http://localhost:1313/tags/semantic-html/</link>
     <description>Recent content in Semantic-Html on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 13:54:10 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/semantic-html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 13:54:10 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/semantic-html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HTML Elements Table</title>
-      <link>//localhost:1313/posts/references/html_semantic_reference/</link>
+      <link>http://localhost:1313/posts/references/html_semantic_reference/</link>
       <pubDate>Sun, 16 Nov 2025 13:54:10 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/references/html_semantic_reference/</guid>
+      <guid>http://localhost:1313/posts/references/html_semantic_reference/</guid>
       <description></description>
       
     </item>

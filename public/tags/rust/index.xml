@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rust on Keith Thomson</title>
-    <link>//localhost:1313/tags/rust/</link>
+    <link>http://localhost:1313/tags/rust/</link>
     <description>Recent content in Rust on Keith Thomson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyrighted ✏️2024 Keith Thomson</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 14:01:15 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 14:01:15 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🦀 Rust Structs</title>
-      <link>//localhost:1313/posts/rust/structs/</link>
+      <link>http://localhost:1313/posts/rust/structs/</link>
       <pubDate>Sun, 16 Nov 2025 14:01:15 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/rust/structs/</guid>
+      <guid>http://localhost:1313/posts/rust/structs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Rust Ownership</title>
-      <link>//localhost:1313/posts/rust/ownership/</link>
+      <link>http://localhost:1313/posts/rust/ownership/</link>
       <pubDate>Sun, 16 Nov 2025 14:01:10 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/rust/ownership/</guid>
+      <guid>http://localhost:1313/posts/rust/ownership/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Mastering Asynchronous Programming in Rust</title>
-      <link>//localhost:1313/posts/rust/mastering_async_programming_in_rust/</link>
+      <link>http://localhost:1313/posts/rust/mastering_async_programming_in_rust/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:30 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/rust/mastering_async_programming_in_rust/</guid>
+      <guid>http://localhost:1313/posts/rust/mastering_async_programming_in_rust/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Getting Started with Rust</title>
-      <link>//localhost:1313/posts/rust/getting_started_with_rust/</link>
+      <link>http://localhost:1313/posts/rust/getting_started_with_rust/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:19 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/rust/getting_started_with_rust/</guid>
+      <guid>http://localhost:1313/posts/rust/getting_started_with_rust/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Building Web Applications with Axum in Rust</title>
-      <link>//localhost:1313/posts/rust/building_web_applications_with_axum/</link>
+      <link>http://localhost:1313/posts/rust/building_web_applications_with_axum/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:13 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/rust/building_web_applications_with_axum/</guid>
+      <guid>http://localhost:1313/posts/rust/building_web_applications_with_axum/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🦀 Rust Borrowing</title>
-      <link>//localhost:1313/posts/rust/borrowing/</link>
+      <link>http://localhost:1313/posts/rust/borrowing/</link>
       <pubDate>Sun, 16 Nov 2025 14:00:08 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/rust/borrowing/</guid>
+      <guid>http://localhost:1313/posts/rust/borrowing/</guid>
       <description></description>
       
     </item>
