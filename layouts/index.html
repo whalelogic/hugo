@@ -6,7 +6,7 @@
       <img
         src="{{ .Site.Params.homepage.homepageImage | relURL }}"
         alt="Profile Picture"
-        class="mx-auto h-64 w-64 rounded-full object-cover"
+        class="mx-auto h-48 w-48 rounded-full object-cover"
       />
     </div>
 
@@ -53,15 +53,14 @@
 
     {{/* Recent Posts */}}
     <div class="mt-12 w-full max-w-2xl dark:border-gray-700 rounded-lg p-6">
-      <h2 class="text-2xl font-bold mb-4 text-primary-400">Recent Posts</h2>
+      <h2 class="text-2xl font-bold mb-4 text-gray-100">Recent Posts</h2>
       <ul>
         {{ range first 8 (where .Site.RegularPages "Type" "posts") }}
         <li class="mb-4 py-2">
           <a
             href="{{ .RelPermalink }}"
             class="text-xl font-semibold text-primary-200 hover:text-blue-900 hover:underline"
-            >{{ .Title }}</a
-          >
+            >{{ .Title }}</a>
           <!-- <p class="text-gray-600 dark:text-gray-400">{{ .Params.tags }}</p> -->
         </li>
         {{ end }}
@@ -69,4 +68,5 @@
     </div>
   </div>
 </div>
+
 {{ end }}

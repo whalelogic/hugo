@@ -11,15 +11,15 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "img/fishtank.png"
 secondaryLogo = "img/fishtank.png"
-description = "Keith Thomson - Cloud Engineer | Developer --- Professional Portfolio and Blog Site"
-copyright = "Copyrighted ✏️2024 Keith Thomson"
+description = "Keith Thomson - Cloud Engineer | Developer | Programmer"
+copyright = "Copyrighted  ✏️ 2024 Keith Thomson"
 
 [author]
 name = "🐧 Keith Thomson"
 email = "thomsonk930@gmail.com"
 image = "/img/sophia-graduation-elementarySchool.jpeg"
 imageQuality = 96
-headline = "I'm only human"
+headline = "Cloud Engineer | Developer"
 bio = "I design and develop **Cloud-Native Solutions** that are scalable and efficent. I also provide Data Processing and Quality Assurance services, data labeling, migrations, database design, etc. __Let me prepare your data for Artificial Intelligence!__"
 links = [
   { email = "mailto:thomsonk930@gmail.com" },

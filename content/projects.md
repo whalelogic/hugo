@@ -4,7 +4,9 @@ draft = false
 title = "Projects"
 +++
 
-## My Projects
+<div class="mb-8">
+  <p>Welcome to the Projects page! 🏗 Here, you'll find a curated selection of my work, showcasing my skills and interests in cloud-native development, programming, and more.</p>
+</div>
 
 <div class="projects-grid">
 {{< github repo="whalelogic/Go-Programming" showThumbnail=true >}}

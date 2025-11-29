@@ -24,40 +24,40 @@
 [[main]]
   name = "About"
   url = "/about/"
-  weight = 20
+  weight = 90
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Guides"
+  parent = "Categories"
+  pageRef = "categories/guides"
+  weight = 40
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Programming"
+  parent = "Categories"
+  pageRef = "categories/programming"
+  weight = 50
 
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
+[[subnavigation]]
+  name = "Github"
+  pre = "github"
+  pageRef = "projects"
+  weight = 20
 
 [[main]]
   name = "Categories"
   pageRef = "categories"
-  weight = 20
+  weight = 30
 
- [[main]]
+[[main]]
    name = "Tags"
    pageRef = "tags"
-   weight = 30
+   weight = 60
 
 
 # -- Footer Menu --

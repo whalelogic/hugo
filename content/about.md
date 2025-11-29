@@ -24,7 +24,7 @@ at the projects page to see what I've been working on.
 ## 🎓 Education
 
 - A.S. Computer Science - Cloud Computing    
-- B.S. Computer Science - Information Systems   
+- B.S. Computer Science - Information Systems <em>Class of 2026</em>   
 
 ## 🔎 Focuses: 
 

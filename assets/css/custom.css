@@ -42,7 +42,7 @@
 }
 
 /* Example: different colors per category */
-.tag.Programming { background-color: #3b82f6; }
+.tag.Programming { background-color: #51f78e; }
 .tag.Cloud { background-color: #f59e0b; }
 .tag.DevOps { background-color: #8b5cf6; }
 
