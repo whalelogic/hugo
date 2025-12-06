@@ -1,4 +1,20 @@
-# A Practical Guide to Regular Expressions in Go: Patterns, Pitfalls, and Power Techniques
+---
+date: "2025-11-16"
+author: "Keith Thomson"
+categories:
+  - "Reference"
+  - "Go"
+description: "A guide to using regular expressions in Go."
+tags:
+  - "go"
+  - "regex"
+  - "references"
+  - "programming"
+title: "A Practical Guide to Regular Expressions in Go"
+---
+
+
+# Patterns, Pitfalls, and Power Techniques
 
 Regular expressions remain one of the most versatile tools in a
 developer's toolkit. They offer a concise, expressive language for

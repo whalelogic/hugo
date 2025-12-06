@@ -1,3 +1,20 @@
+---
+date: 2024-06-10
+author: "Keith Thomson"
+categories:
+  - "Go"
+  - "Reference"
+description: "A handy reference for Regular Expressions (Regex) in Go."
+tags:
+  - "go"
+  - "regex"
+  - "programming"
+  - "cheat-sheet"
+  - "reference"
+title: "Go Regex Cheat Sheet (RE2)"
+---
+
+
 # Go Regex Cheat Sheet (RE2)
 
 ### Go Standard Library: *Package: `regexp`* 
