@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on Keith Thomson</title>
+    <link>//localhost:46861/series/ruby/</link>
+    <description>Recent content in Ruby on Keith Thomson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>✏️ Copyrighted ☄️ 2024 Keith Thomson</copyright>
+    <lastBuildDate>Sat, 15 Nov 2025 23:28:05 -0500</lastBuildDate><atom:link href="//localhost:46861/series/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ruby Blocks and Procs</title>
+      <link>//localhost:46861/posts/ruby/blocks/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>//localhost:46861/posts/ruby/blocks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ruby Classes and Objects</title>
+      <link>//localhost:46861/posts/ruby/classes/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>//localhost:46861/posts/ruby/classes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ruby Symbols and Strings</title>
+      <link>//localhost:46861/posts/ruby/symbols/</link>
+      <pubDate>Sat, 15 Nov 2025 23:28:05 -0500</pubDate>
+      
+      <guid>//localhost:46861/posts/ruby/symbols/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
